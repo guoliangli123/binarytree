@@ -1,0 +1,14 @@
+{
+  "name": "binarytrees",
+  "version": "1.0.1",
+  "description": "a javascript binary tree",
+  "main": "binarytree.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "binarytree"
+  ],
+  "author": "Eric Li",
+  "license": "MIT"
+}
