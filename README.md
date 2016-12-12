@@ -73,3 +73,7 @@ var node = nums.findNode(45);
 
 nums.delNode(45);
 ```
+
+##download
+
+`npm install binarytrees`
